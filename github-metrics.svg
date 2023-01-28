@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    180k added, 71.1k removed
+                                    186k added, 73.6k removed
                                 </div>
                             </section>
                             <section>
@@ -2591,24 +2591,31 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f1802be</div>
-                                        <div class="message">Bump @angular-eslint/schematics from 15.1.0 to 15.2.0 (#1453)
+                                        <div class="sha">#a3002a5</div>
+                                        <div class="message">Bump jest and @types/jest (#1461)
 
-Bumps [@angular-eslint/schematics](https://github.com/angular-eslint/angular-eslint/tree/HEAD/packages/schematics) from 15.1.0 to 15.2.0.
-- [Release notes](https://github.com/angular-eslint/angular-eslint/releases)
-- [Changelog](https://github.com/angular-eslint/angular-eslint/blob/main/packages/schematics/CHANGELOG.md)
-- [Commits](https://github.com/angular-eslint/angular-eslint/commits/v15.2.0/packages/schematics)
+Bumps [jest](https://github.com/facebook/jest/tree/HEAD/packages/jest) and [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest). These dependencies needed to be updated together.
+
+Updates `jest` from 29.3.1 to 29.4.1
+- [Release notes](https://github.com/facebook/jest/releases)
+- [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/facebook/jest/commits/v29.4.1/packages/jest)
+
+Updates `@types/jest` from 29.2.5 to 29.4.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
 
 ---
 updated-dependencies:
-- dependency-name: "@angular-eslint/schematics"
+- dependency-name: jest
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+- dependency-name: "@types/jest"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
@@ -2628,59 +2635,55 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#84cb5d9</div>
-                                        <div class="message">Bump @angular-devkit/build-angular from 15.1.1 to 15.1.3 (#1456)
+                                        <div class="sha">#dd8f3cb</div>
+                                        <div class="message">Bump @angular/compiler from 15.1.0 to 15.1.2 (#1462)
 
-Bumps [@angular-devkit/build-angular](https://github.com/angular/angular-cli) from 15.1.1 to 15.1.3.
-- [Release notes](https://github.com/angular/angular-cli/releases)
-- [Changelog](https://github.com/angular/angular-cli/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/angular/angular-cli/compare/15.1.1...15.1.3)
-
----
-updated-dependencies:
-- dependency-name: "@angular-devkit/build-angular"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">quipt/monorepo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#49261b0</div>
-                                        <div class="message">Bump @angular/forms from 15.1.0 to 15.1.2 (#1457)
-
-Bumps [@angular/forms](https://github.com/angular/angular/tree/HEAD/packages/forms) from 15.1.0 to 15.1.2.
+Bumps [@angular/compiler](https://github.com/angular/angular/tree/HEAD/packages/compiler) from 15.1.0 to 15.1.2.
 - [Release notes](https://github.com/angular/angular/releases)
 - [Changelog](https://github.com/angular/angular/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/angular/angular/commits/15.1.2/packages/forms)
+- [Commits](https://github.com/angular/angular/commits/15.1.2/packages/compiler)
 
 ---
 updated-dependencies:
-- dependency-name: "@angular/forms"
+- dependency-name: "@angular/compiler"
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">quipt/monorepo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e805c8</div>
+                                        <div class="message">Bump @angular/cli from 15.1.2 to 15.1.3 (#1463)
+
+Bumps [@angular/cli](https://github.com/angular/angular-cli) from 15.1.2 to 15.1.3.
+- [Release notes](https://github.com/angular/angular-cli/releases)
+- [Changelog](https://github.com/angular/angular-cli/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/angular/angular-cli/compare/15.1.2...15.1.3)
+
+---
+updated-dependencies:
+- dependency-name: "@angular/cli"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
@@ -2702,12 +2705,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#86fafc6</div>
-                                        <div class="message">Bump cdk-nag from 2.21.67 to 2.21.74 (#1458)
+                                        <div class="sha">#84485a4</div>
+                                        <div class="message">Bump cdk-nag from 2.21.74 to 2.21.76 (#1465)
 
-Bumps [cdk-nag](https://github.com/cdklabs/cdk-nag) from 2.21.67 to 2.21.74.
+Bumps [cdk-nag](https://github.com/cdklabs/cdk-nag) from 2.21.74 to 2.21.76.
 - [Release notes](https://github.com/cdklabs/cdk-nag/releases)
-- [Commits](https://github.com/cdklabs/cdk-nag/compare/v2.21.67...v2.21.74)
+- [Commits](https://github.com/cdklabs/cdk-nag/compare/v2.21.74...v2.21.76)
 
 ---
 updated-dependencies:
@@ -2717,8 +2720,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
@@ -2738,22 +2739,20 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b3528c8</div>
-                                        <div class="message">Bump @angular/common from 15.1.0 to 15.1.2 (#1459)
+                                        <div class="sha">#7468795</div>
+                                        <div class="message">Bump aws-cdk-lib from 2.60.0 to 2.62.2 (#1460)
 
-Bumps [@angular/common](https://github.com/angular/angular/tree/HEAD/packages/common) from 15.1.0 to 15.1.2.
-- [Release notes](https://github.com/angular/angular/releases)
-- [Changelog](https://github.com/angular/angular/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/angular/angular/commits/15.1.2/packages/common)
+Bumps [aws-cdk-lib](https://github.com/aws/aws-cdk/tree/HEAD/packages/aws-cdk-lib) from 2.60.0 to 2.62.2.
+- [Release notes](https://github.com/aws/aws-cdk/releases)
+- [Changelog](https://github.com/aws/aws-cdk/blob/v2.62.2/CHANGELOG.v2.md)
+- [Commits](https://github.com/aws/aws-cdk/commits/v2.62.2/packages/aws-cdk-lib)
 
 ---
 updated-dependencies:
-- dependency-name: "@angular/common"
+- dependency-name: aws-cdk-lib
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
@@ -3478,7 +3477,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2023, 09:16:29 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Jan 2023, 10:18:46 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

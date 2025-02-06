@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2204" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1904" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    88.2k added, 27k removed
+                                    66.1k added, 44.3k removed
                                 </div>
                             </section>
                             <section>
@@ -2576,6 +2576,37 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">rearc/aws-mgn-demo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7376ff4</div>
+                                        <div class="message">Pull request #24: Fix migration stopAt feature
+
+Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:fix/migration-stop to main
+
+* commit '0cb2f9a948dd8841e85c81b13d0c5955ec57183b':
+  Fix migration stopAt feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cb2f9a</div>
+                                        <div class="message">Fix migration stopAt feature
+
+Working migrations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">rearc/aws-mgn-demo</span>
                                     </div>
@@ -2641,148 +2672,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 47 commits in
-                                        <span class="repo">rearc/aws-mgn-demo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#30d4bdc</div>
-                                        <div class="message">Pull request #9: Update tests to mock setTimeout instead of passing it through, use expect().resolves in tests
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/test-fixes to main
-
-* commit '332d8be5ba9e60a131c85842d5ffe2b81c2b10d8':
-  Update tests to mock setTimeout instead of passing it through, use expect().resolves in tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#332d8be</div>
-                                        <div class="message">Update tests to mock setTimeout instead of passing it through, use expect().resolves in tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#465b43c</div>
-                                        <div class="message">Pull request #8: Add --help to run-commands, update README for devcontainer
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/help to main
-
-* commit 'd945e7d40fca59c9d06fd21f89023b28ae85b9ee':
-  Add --help to run-commands, update README for devcontainer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d945e7d</div>
-                                        <div class="message">Add --help to run-commands, update README for devcontainer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6031d09</div>
-                                        <div class="message">Pull request #7: Update repo
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/update-devcontainer to main
-
-* commit 'f448b17dc359df0cd8a31eac3c53b8d3b20046ba':
-  Update repo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f448b17</div>
-                                        <div class="message">Update repo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#549c1a0</div>
-                                        <div class="message">Pull request #6: Update code
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/update to main
-
-* commit '13d62857102e26fedc00c4dd69324aac345c70b8':
-  Update code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13d6285</div>
-                                        <div class="message">Update code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c765e45</div>
-                                        <div class="message">Pull request #5: updated code to use adaptive retry mode
-
-Merge in IT/vmc-aws-automation-infra from ~DLUMAS4/vmc-aws-automation-infra:main to main
-
-* commit '1f6fa30d7e0075f5f18a9644361f22a108b72319':
-  updated code to use adaptive retry mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f6fa30</div>
-                                        <div class="message">updated code to use adaptive retry mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05321f4</div>
-                                        <div class="message">Pull request #4: updated for rate limiting
-
-Merge in IT/vmc-aws-automation-infra from ~DLUMAS4/vmc-aws-automation-infra:main to main
-
-* commit '03e31c0d933ad5e9165b577caf38f95af7481c2e':
-  updated for rate limiting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03e31c0</div>
-                                        <div class="message">updated for rate limiting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e27c20f</div>
-                                        <div class="message">Pull request #3: updated for rate limiting
-
-Merge in IT/vmc-aws-automation-infra from ~DLUMAS4/vmc-aws-automation-infra:main to main
-
-* commit 'e6a24612b199cb0ab7bccaa68e5b1794bf84098d':
-  updated for rate limiting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6a2461</div>
-                                        <div class="message">updated for rate limiting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c37c334</div>
-                                        <div class="message">Pull request #2: Main
-
-Merge in IT/vmc-aws-automation-infra from ~DLUMAS4/vmc-aws-automation-infra:main to main
-
-* commit '163fa72dfdb798c034fe72c8dd1b4b2d060c7d39':
-  remove npm tests
-  added jq to docker for filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#163fa72</div>
-                                        <div class="message">remove npm tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d3ba3a</div>
-                                        <div class="message">added jq to docker for filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6215da1</div>
-                                        <div class="message">Pull request #1: modified to filter + paginate to prevent throttle
-
-Merge in IT/vmc-aws-automation-infra from ~DLUMAS4/vmc-aws-automation-infra:main to main
-
-* commit '1b4d9fcbea507fb3317b2dabee492617efe38508':
-  modified to filter + paginate to prevent throttle</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b4d9fc</div>
-                                        <div class="message">modified to filter + paginate to prevent throttle</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9606797</div>
-                                        <div class="message">added code for vmc sg</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2818,7 +2707,7 @@ Merge in IT/vmc-aws-automation-infra from ~DLUMAS4/vmc-aws-automation-infra:main
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2025, 01:31:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 02:20:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2191" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1941" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    26.4k added, 18.2k removed
+                                    123k added, 47.5k removed
                                 </div>
                             </section>
                             <section>
@@ -2588,6 +2588,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/VTAM-29</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5ca33fe</div>
+                                        <div class="message">Update caching in compose file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">rearc/aws-mgn-demo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/VTAM-29</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a6174a8</div>
+                                        <div class="message">Update caching in compose file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">rearc/aws-mgn-demo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/VTAM-29</span></div>
+                                    <div class="commit">
                                         <div class="sha">#9b42b4b</div>
                                         <div class="message">Remove cacheTo and print devcontainer version</div>
                                     </div>
@@ -2627,140 +2667,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 16 commits in
-                                        <span class="repo">rearc/aws-mgn-demo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c12d277</div>
-                                        <div class="message">Pull request #33: VTAM-28 Remove default for --stopAt flag
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/VTAM-28 to main
-
-* commit 'd15926c57e5baa1d07c8ae83ca1fec0bd43f0b98':
-  VTAM-28 Remove default for --stopAt flag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d15926c</div>
-                                        <div class="message">VTAM-28 Remove default for --stopAt flag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52323ba</div>
-                                        <div class="message">Pull request #32: Feature/VTAM-27
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/VTAM-27 to main
-
-* commit 'b51f58df42199afb5ae68b97cd5364a691abcdb2':
-  VTAM-27: Add forceLaunchConfigUpdate flag for migrations, check/updatefor IMDSv2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0df812</div>
-                                        <div class="message">Pull request #31: VTAM-26 Add check launch settings to READY_FOR_CUTOVER and make sure the launch disposition is correct
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/VTAM-26 to main
-
-* commit '689500dd9cecb6734ff0c27e4df9ffff85ca297f':
-  VTAM-26 Add check launch settings to READY_FOR_CUTOVER and make sure the launch disposition is correct</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b51f58d</div>
-                                        <div class="message">VTAM-27: Add forceLaunchConfigUpdate flag for migrations, check/updatefor IMDSv2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#689500d</div>
-                                        <div class="message">VTAM-26 Add check launch settings to READY_FOR_CUTOVER and make sure the launch disposition is correct</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#720ff8c</div>
-                                        <div class="message">Pull request #30: Feature/update tests
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/update-tests to main
-
-* commit 'a0b3169dc33d4bcec065e19a42182e5bbff091f7':
-  Add termination protection to launch template
-  Update list-servers coverage
-  Update migrate-servers tests
-  Update run commands tests
-  New lint rule, add tests for update-dns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0b3169</div>
-                                        <div class="message">Add termination protection to launch template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83b4dcf</div>
-                                        <div class="message">Update list-servers coverage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69ff716</div>
-                                        <div class="message">Update migrate-servers tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76b80ab</div>
-                                        <div class="message">Update run commands tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30947a6</div>
-                                        <div class="message">New lint rule, add tests for update-dns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65c8be1</div>
-                                        <div class="message">Pull request #11: Add termination protection to launch template
-
-Merge in IT/vmc-aws-automation-infra from esimon1/VTAM-6-termination-protection to main
-
-* commit 'c36841fe257c014e4cd3e8e0f52bb4ac5e1fc069':
-  Add termination protection to launch template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c80507</div>
-                                        <div class="message">Pull request #29: Fix tests from last few feature changes
-
-Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feature/update-tests to main
-
-* commit 'ed3a673f23218188156d7225ba5a1ee658b0d56f':
-  Fix tests from last few feature changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed3a673</div>
-                                        <div class="message">Fix tests from last few feature changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c36841f</div>
-                                        <div class="message">Add termination protection to launch template</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rearc/aws-mgn-demo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/update-tests</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a0b3169</div>
-                                        <div class="message">Add termination protection to launch template</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2796,7 +2702,7 @@ Merge in IT/vmc-aws-automation-infra from ~BHARBE1/vmc-aws-automation-infra:feat
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2025, 22:25:27 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2025, 23:26:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
